@@ -1,0 +1,4 @@
+class Ah 
+{
+	;int i;
+}

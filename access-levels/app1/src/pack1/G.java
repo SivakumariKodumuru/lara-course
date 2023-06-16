@@ -2,7 +2,7 @@ package pack1;
 class  F
 {
 	private static int i = 90;//its private
-    static void test()//test method should not be private
+    static void test()//test method should not private
 	{
 		System.out.println(i);
 	}
